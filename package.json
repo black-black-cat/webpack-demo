@@ -49,6 +49,6 @@
     "prod": "cross-env NODE_ENV=prod node ./build/dev-server.js",
     "dev": "cross-env NODE_ENV=dev node ./build/dev-server.js"
   },
-  "author": "samLong",
+  "author": "black-black-cat",
   "license": "MIT"
 }
